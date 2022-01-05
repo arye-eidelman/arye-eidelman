@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arye Eidelman @arye-eidelman
 - 👀 I’m interested in Typescript, React, Ruby on Rails, Python.
-- 🙄 I’m Not interested PHP or redux (unless you **really** know why and how your project benefits from it)
 - 📫 Reachable via email at aryedoveidelman@gmail.com
 <!--- 🌱 I’m currently learning ...-->
 <!--- 💞️ I’m looking to collaborate on ...-->
