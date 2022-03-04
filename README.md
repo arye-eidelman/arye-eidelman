@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arye Eidelman @arye-eidelman
-- 👀 I’m interested in Typescript, React, Ruby on Rails, Python.
+- 👀 I’m interested in Typescript, React, Ruby on Rails.
 - 📫 Reachable via email at aryedoveidelman@gmail.com
-<!--- 🌱 I’m currently learning ...-->
+- 🌱 I’m currently learning node
 <!--- 💞️ I’m looking to collaborate on ...-->
 
 <!---
