@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Arye Eidelman @arye-eidelman
 - 👀 I’m interested in Typescript, React, Ruby on Rails.
 - 📫 Reachable via email at aryedoveidelman@gmail.com
-- 🌱 I’m currently learning node
-<!--- 💞️ I’m looking to collaborate on ...-->
 
 <!---
 arye-dov-eidelman/arye-dov-eidelman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
